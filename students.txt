@@ -1,0 +1,10 @@
+Erkin Menguc,100
+Tom,90
+John Walker,22
+Alperen Sengun,67
+summer,59
+student,21
+justaname,67
+player,88
+student2,12
+student3,99
