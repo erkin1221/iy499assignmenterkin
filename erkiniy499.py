@@ -32,6 +32,10 @@ def save_to_file(the_list):
 
 # Sorting Algorithm: Bubble Sort
 # I used the logic from our lecture slides here and watched additional yotube videos (in general for this code).
+#https://www.youtube.com/watch?v=Vca808JTbI8
+#https://www.youtube.com/watch?v=g_xesqdQqvA
+#https://www.youtube.com/watch?v=KW6qncswzHw
+#(And many more videos i can't find the links to because i'm resubmitting this assignment after months.)
 def my_bubble_sort(arr):
     n = len(arr)
     for i in range(n):
